@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\ПГУ\2 курс\ЛиОАвИЗ\8\8\Source.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\ПГУ\2 курс\ЛиОАвИЗ\8\8\Source.cpp(76,6): error C2086: 'int *deg': redefinition
-D:\ПГУ\2 курс\ЛиОАвИЗ\8\8\Source.cpp(32): message : see declaration of 'deg'
